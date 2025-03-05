@@ -1,2 +1,3 @@
 # DSA-problem-practice
-DSA problem practice
+Learning Git & GitHub
+
